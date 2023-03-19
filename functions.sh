@@ -16,6 +16,3 @@ function check_or_terminate()
     exit 1;
     fi
 }
-
-ls
-check_or_terminate
