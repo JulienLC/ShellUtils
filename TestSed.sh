@@ -1,5 +1,5 @@
 #Example before /after of test  Unit sed testing 
-
+# check also https://github.com/shellspec/shellspec to do it properly
 
 echo "Before test"
 export MY_VAR=file_to_modify.json
