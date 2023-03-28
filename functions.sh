@@ -7,7 +7,7 @@
 #   if 0 value -> we continue the script
 #   if different from 0 -> stop the script
 ##################################################################
-function check_or_terminate() 
+function check_or_terminate()
 {
     local return_code="$@"
     if [ $return_code != 0 ]
